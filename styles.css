@@ -59,6 +59,11 @@ h1 {
     font-weight: 900;
 }
 
+h1:hover {
+    color: var(--yellow);
+    cursor: pointer;
+}
+
 .description {
     color: var(--grey);
     margin: 10px 0;
